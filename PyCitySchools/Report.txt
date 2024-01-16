@@ -1,0 +1,46 @@
+I have summarised a few summaries listed below using the test results provided. 
+Please refer to 'Analysed_test_result.txt' for the summarised data. 
+
+	Area_summary
+	Per_school_summary
+	Top_schools
+	Bottom_schools
+	Maths_scores_by_year
+	Reading_scores_by_year
+	Spending_summary
+	Size_summary
+	Type_summary
+
+
+In this analysis, a total of 15 schools are analysised with a total of 39,170 students. It can be seen that the average maths 
+score is at 70.34, while the average reading score is at 69.98. the rate passing in both subjects is at 72.81%. 
+
+Looking at the performance of each school, Griffin and Cabrera High School have the best rate of passing both 
+subjects (81.34% and 80.79%, respectively) while Hernandez and Huang High School being the worst (66.36% and 66.71%, respectively). 
+Now, lets look at both school in details: 
+
+Griffin High School:   {School type: Independent, Total student: 1468, Per student budget: $625.00, % overall passing: 81.34%}
+Cabrera High School:   {School type: Independent, Total student: 1858, Per student budget: $582.00, % overall passing: 80.79%}
+Hernandez High School: {School type: Government,  Total student: 4635, Per student budget: $652.00, % overall passing: 66.36%}
+Huang High School:     {School type: Government,  Total student: 2917, Per student budget: $655.00, % overall passing: 66.71%}
+
+Considering the Spending_summary, the rate of 'overall passing' is the highest (79.88%) when the spending ranges (per student) 
+is between $585-630. This is reflected in the two top schools. On the other hand, the rate of 'overall passing' is the 
+lowest (66.76%) when the spending ranges (per student) is between $645-680. This is, also, reflected in the two bottom schools. 
+
+Considering the Size_summary, the rate of 'overall passing' is the highest (79.07%) when the school size is >1000. 
+This isn't reflected in the two top schools. However, the rate of 'overall passing' is the lowest (70.29%) when the 
+school size is between 2000-5000, and this is reflected in the two bottom schools. 
+
+Considering the Type_summary, the rate of 'overall passing' is the highest (76.97%) when the school is run independantly, 
+which is reflected in the two top schools. On the other hand, the rate of 'overall passing' is the lowest (70.70%) when 
+the school is run by the Government, which is , too, reflected in the two bottom schools. 
+
+Drawing from the insights above, it can be concluded that, firstly, spending more per student does not mean a result of 
+better performance, spending between $585-630 per student would be optimal for the best performance outcome. 
+Secondly, having a smaller school size doesn't not necessarily mean a better performance, as the 2 top schools have more 
+than 1000 students. However, having a larger number of student (>2000) is shown likely to have a poorer performance. 
+Thirdly, beining in the independant schools hold a greater chance of performing better than being in the Government schools.
+
+
+
